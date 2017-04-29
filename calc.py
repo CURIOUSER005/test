@@ -10,4 +10,4 @@ class calculator:
 
 cal=calculator()
 print(cal.add(2,3))
-
+print(cal.sub(2,3))
